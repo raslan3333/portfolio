@@ -17,7 +17,7 @@
     <section class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
       <div class="container flex md:flex-row flex-col-reverse ">
         <div class="lg:flex-grow md:w-3/5 rounded-2xl mr-6 flex flex-col md:items-start md:text-left m-5 md:mb-0 border border-1 p-5">
-          <p class="text-sm text-blue-400">Hello I am</p>
+          <p class="text-sm text-blue-400">Hello, I am</p>
           <h3 class="text-2xl">Raslan Ismail</h3>
           <p class="mt-2 text-md ">I finished my Training since summer 2020 in Bremen,
             Germany and since then I am doing freelancing and focusing on learning new technologies everyday.
