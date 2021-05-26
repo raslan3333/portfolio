@@ -22,7 +22,7 @@
           <p class="mt-2 text-md ">I finished my Training since summer 2020 in Bremen,
             Germany and since then I am doing freelancing and focusing on learning new technologies everyday.
             I am listing all languages and Tools that I will be
-            using in your Project down below. You Choose the Tools that you prefer or let me use Chose for you.</p>
+            using in your Project down below. You Choose the Tools that you prefer or let me Choose for you.</p>
 
           <h3 class="text-2xl mt-7">Tools & Languages</h3>
           <p class="mt-2">Java, Spring boot, Javascript(react, vuejs), Tailwindcss, Dart(Flutter)</p>
