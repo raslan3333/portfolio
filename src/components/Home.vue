@@ -1,14 +1,12 @@
 <template>
   <div >
     <header class="container mx-auto flex p-5 items-center">
-      <div class="container flex   justify-between items-center">
+      <div class="container flex justify-between items-center">
         <a class=" flex flex-wrap items-center justify-center">
           <h1 class="sm:text-2xl text-1xl py-2 font-medium">Raslan Ismail</h1>
         </a>
-
         <div class="md:ml-auto flex  items-center  justify-center">
-          <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Hire Me</button>
-
+          <a href="https://github.com/raslan3333" class="inline-flex text-white bg-blueGray-600 border-0 py-2 px-6 focus:outline-none rounded text-lg">Github</a>
         </div>
 
       </div>
